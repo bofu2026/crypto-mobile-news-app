@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CryptoPulse</string>
+    <string name="title_activity_main">CryptoPulse</string>
+    <string name="package_name">com.cryptopulse.app</string>
+    <string name="custom_url_scheme">com.cryptopulse.app</string>
+</resources>
